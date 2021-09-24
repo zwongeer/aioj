@@ -131,7 +131,7 @@ int main() {
 }
 \`\`\`
 
-**submit code**
+**Submit code**
 
 You can directly submit a single file, or a packed folder in the form of \`.zip\`。
 
